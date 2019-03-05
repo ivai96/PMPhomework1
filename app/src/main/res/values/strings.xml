@@ -3,4 +3,13 @@
     <string name="searchQueryHint">Enter Twitter search query here</string>
     <string name="tagQueryHint">Tag your query</string>
     <string name="saveBtn">Save</string>
+    <string name="tagTxt">Tagged Searches</string>
+    <string name="clearBtn">Clear Tags</string>
+    <string name="editBtn">Edit</string>
+    <string name="AFPBtn">AndroidFP</string>
+    <string name="deitelBtn">Deitel</string>
+    <string name="googleBtn">Google</string>
+    <string name="iPBtn">iPhoneFP</string>
+    <string name="jFPBtn">JavaFP</string>
+    <string name="jHTPBtn">JavaHTP</string>
 </resources>
