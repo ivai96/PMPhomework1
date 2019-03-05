@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">PMPDomasno1</string>
+    <string name="app_name">Favorite Twitter Searches</string>
+    <string name="searchQueryHint">Enter Twitter search query here</string>
 </resources>
